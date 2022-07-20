@@ -45,6 +45,9 @@ button {
 
 .red-btn:hover {
     transform: scale(1.1);
+    color: red;
+    background-color: white;
+    font-weight: 600;
 }
 
 .right {
@@ -88,7 +91,7 @@ button {
 }
 
 .red-link {
-    background-color: red;
+    background-color: orangered;
 }
 
 .red-link a {
