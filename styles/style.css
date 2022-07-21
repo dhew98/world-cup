@@ -177,7 +177,7 @@ hr {
 }
 
 
-@media screen and (min-width:630px) and (max-width:992px) {
+@media screen and (min-width:577px) and (max-width:992px) {
     .right img {
         width: 120%;
         position: relative;
@@ -227,7 +227,7 @@ hr {
 
 }
 
-@media screen and (max-width:629px) {
+@media screen and (max-width:576px) {
     .container {
         flex-direction: column;
     }
